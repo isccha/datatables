@@ -1,6 +1,10 @@
 {
   "name": "dataTables",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "main": "datatables_controller.js",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/isccha/datatables",
+    "type": "git"
+  }
 }
